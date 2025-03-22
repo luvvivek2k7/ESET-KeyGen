@@ -1,0 +1,15 @@
+2025-03-22 14:16:00,955 - INFO - Parsed arguments: {'chrome': True, 'firefox': False, 'edge': False, 'safari': False, 'auto_detect_browser': False, 'key': True, 'small_business_key': False, 'advanced_key': False, 'vpn_codes': False, 'account': False, 'protecthub_account': False, 'only_webdriver_update': False, 'reset_eset_vpn': False, 'update': False, 'install': False, 'return_exit_code': 0, 'skip_webdriver_menu': False, 'no_headless': False, 'custom_browser_location': '', 'email_api': 'incognitomail', 'custom_email_api': False, 'skip_update_check': False, 'no_logo': False, 'disable_progress_bar': False, 'disable_output_file': False, 'repeat': 1, 'silent': False, 'disable_logging': False}
+2025-03-22 14:16:00,955 - INFO - ESET-KeyGen Version: text=v1.5.4.4, index=1544
+2025-03-22 14:16:00,957 - INFO - I_AM_EXECUTABLE=False, OS=nt
+2025-03-22 14:16:00,958 - INFO - sys.argv: ['F:\\My Softies\\Github Repository\\ESET-KeyGen\\main.py', '--chrome', '--key']
+2025-03-22 14:16:01,036 - INFO - -- Updater --
+2025-03-22 14:16:02,388 - INFO - Project up to date!!!
+2025-03-22 14:16:02,390 - INFO - -- WebDriver Auto-Installer --
+2025-03-22 14:16:02,447 - INFO - Google Chrome version: 134.0.6998.118
+2025-03-22 14:16:02,447 - INFO - Google Chrome webdriver version: 134.0.6998.165
+2025-03-22 14:16:02,448 - INFO - The webdriver has already been updated to the browser version!
+2025-03-22 14:16:02,450 - INFO - -- Browsers Initializer --
+2025-03-22 14:16:02,451 - INFO - Initializing Google Chrome for Windows
+2025-03-22 14:16:03,883 - INFO - -- KeyGen --
+2025-03-22 14:16:03,885 - INFO - [incognitomail] Mail registration...
+2025-03-22 14:16:38,170 - CRITICAL - Mail registration was not completed, try using a different Email API!
